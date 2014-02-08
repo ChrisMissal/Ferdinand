@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ferdinand", "Ferdinand\Ferdinand.csproj", "{FED58AC6-2471-4BF9-A0E4-7A6F6A598BAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ferdinand.CLI", "Ferdinand.CLI\Ferdinand.CLI.csproj", "{B133EEC5-A043-4345-BF90-2270C2FE1B7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FED58AC6-2471-4BF9-A0E4-7A6F6A598BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED58AC6-2471-4BF9-A0E4-7A6F6A598BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED58AC6-2471-4BF9-A0E4-7A6F6A598BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED58AC6-2471-4BF9-A0E4-7A6F6A598BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B133EEC5-A043-4345-BF90-2270C2FE1B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B133EEC5-A043-4345-BF90-2270C2FE1B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B133EEC5-A043-4345-BF90-2270C2FE1B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B133EEC5-A043-4345-BF90-2270C2FE1B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
